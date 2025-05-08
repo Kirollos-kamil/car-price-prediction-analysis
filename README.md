@@ -1,0 +1,1 @@
+Jupyter notebook analyzing a used car dataset with Python. Includes data exploration, cleaning (handling outliers, normalization), visualization (box plots, statistics), and preparation for machine learning models. Uses Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
